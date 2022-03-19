@@ -4,5 +4,8 @@
     "hbs": "^4.2.0",
     "request": "^2.88.2",
     "requests": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node src/app.js"
   }
 }
